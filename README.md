@@ -6,4 +6,4 @@ Projekt został wykonany w programie KiCad z zachowaniem założeń projektowych
 Nominalne napięcie zasilacza badanego: 5V,
 Nominalny prąd zasilacza badanego: 0.5A,
 Pasmo przenoszenia wykorzystanego wzmacniacza: 64kHz.
-!(Gotowy_układ.png)
+![](Gotowy_układ.png)
